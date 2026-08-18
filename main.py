@@ -3,9 +3,7 @@ from twilio.rest import Client
 
 import os
 
-api_key = os.environ.get("3fbaf3ad51cc9977663dfe91535f7698")
-account_sid = os.environ.get("ACb9138774c957331f900dd09ee60407f6")
-auth_token = os.environ.get("450e4b0f6b7c3ffd7c4773d44e90aefb")
+
 
 
 MY_LAT = 11.981659
